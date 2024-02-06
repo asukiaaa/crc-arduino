@@ -4,7 +4,7 @@
 
 #define CRC_ASUKIAAA_VERSION_MAJOR 1
 #define CRC_ASUKIAAA_VERSION_MINOR 0
-#define CRC_ASUKIAAA_VERSION_PATCH 0
+#define CRC_ASUKIAAA_VERSION_PATCH 1
 
 namespace crc_asukiaaa {
 
